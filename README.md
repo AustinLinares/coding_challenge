@@ -1,4 +1,4 @@
-# buk_apply_challenge
+# Application-challenge
 
 "Nos invaden los aliens" coding challenge solved by Austin Linares.
 
